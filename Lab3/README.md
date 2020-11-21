@@ -1,4 +1,6 @@
 # CS 61 Lab 3
+## Instructions
+Instructions for lab can be found here: https://cs.dartmouth.edu/~tjp/cs61/Lab3.html
 
 ## Author
 Scott Crawshaw, Dartmouth College  
